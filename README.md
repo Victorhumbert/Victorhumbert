@@ -8,7 +8,7 @@
 
 ## Tecnologias que utilizo
 
-<ul>
+<ul style="list-style:none;display:flex;gap:10px;border:solid 1px red;">
     <li><img alt="HTML" src="/html.svg"></li>
     <li><img alt="CSS" src="/css.svg"></li>
     <li><img alt="JavaScript" src="/js.svg"></li>
