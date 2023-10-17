@@ -24,9 +24,9 @@ Estou em constante aprendizado, vou aprender muita coisas ainda, frameworks, lin
 </div>
 
 ## Veja meus projetos😋
-[>Corretora de imóveis](https://lekaruizcorretora.com)<br>
-[>Bikcraft](https://victorhumbert.github.io/bikcraft/)<br>
-[>Wildbeast](https://victorhumbert.github.io/Wildbeast/)<br>
-[>Calculadora de idade](https://victorhumbert.github.io/age-calculator-app-main/)<br>
-[>Assinatura em uma newsletter](https://victorhumbert.github.io/newsletter-sign-up-with-success-message-main/)<br>
+[> Corretora de imóveis](https://lekaruizcorretora.com)<br>
+[> Bikcraft](https://victorhumbert.github.io/bikcraft/)<br>
+[> Wildbeast](https://victorhumbert.github.io/Wildbeast/)<br>
+[> Calculadora de idade](https://victorhumbert.github.io/age-calculator-app-main/)<br>
+[> Assinatura em uma newsletter](https://victorhumbert.github.io/newsletter-sign-up-with-success-message-main/)<br>
 
