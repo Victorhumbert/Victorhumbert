@@ -23,7 +23,7 @@ Estou em constante aprendizado, vou aprender muita coisas ainda, frameworks, lin
 É isso 🤟</p>
 </div>
 
-## Veja meus projetos😋
+## Veja meus projetos
 [> Corretora de imóveis](https://lekaruizcorretora.com)<br>
 [> Bikcraft](https://victorhumbert.github.io/bikcraft/)<br>
 [> Wildbeast](https://victorhumbert.github.io/Wildbeast/)<br>
