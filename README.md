@@ -17,10 +17,17 @@
 </div>
 
 <div><br>
-<p>Tenho 18 anos, sou estudante do 3º ano do ensino médio, estou estudando desenvolvimento Front-end a aproximadamente 2 anos, tenho noções básicas de UX/UI Design, conhecimento em HTML semântico, CSS(FlexBox/Grid Layout) e estou estudando JS agora, no momento estou aprendendo sobre function expression. Não possuo portifólio ainda, pois, quero finalizar o aprendizado em JS para conseguir fazer um portfólio bem bacana.
+<p>👋 Olá! Sou um entusiasta do Desenvolvimento Front-end em constante busca por aprimoramento! 🚀 <br>
 
-Estou em constante aprendizado, vou aprender muita coisas ainda, frameworks, linguagem de Back-end e noções melhores de UI/UX. <br>
-É isso 🤟</p>
+🌟 Atualmente, sou um estudante do 3º ano do ensino médio, apaixonado por tecnologia e pela arte de resolver problemas. Nos últimos 2 anos, mergulhei no universo do Front-end, adquirindo habilidades sólidas em HTML, CSS e estou expandindo meus conhecimentos em JavaScript.<br>
+
+🎨 Além disso, estou aprimorando minhas noções em UX/UI Design. Estou focado na construção de um portfólio que represente minha jornada e estou determinado a solidificar meu conhecimento em JavaScript para alcançar esse objetivo.<br>
+
+📚 Meu desejo por excelência se estende para além do Front-end. Tenho planos de explorar frameworks, aprender linguagens de Back-end e aprofundar minhas habilidades em UI/UX. Meu objetivo é me tornar um desenvolvedor completo e versátil.<br>
+
+🌟 Estou empolgado para absorver conhecimento, crescer e contribuir de forma significativa para projetos desafiadores. Se você está em busca de alguém comprometido e apaixonado pelo que faz, estou pronto para contribuir!<br>
+
+Vamos nos conectar e explorar novas oportunidades juntos! 🚀</p>
 </div>
 
 ## Veja meus projetos
