@@ -19,7 +19,7 @@
 <div><br>
 <p>👋 Olá! Sou um entusiasta do Desenvolvimento Front-end em constante busca por aprimoramento! 🚀 <br>
 
-🌟 Atualmente, sou um estudante do 3º ano do ensino médio, apaixonado por tecnologia e pela arte de resolver problemas. Nos últimos 2 anos, mergulhei no universo do Front-end, adquirindo habilidades sólidas em HTML, CSS e estou expandindo meus conhecimentos em JavaScript.<br>
+🌟 Atualmente, sou estudante do 1° semestre de ADS, apaixonado por tecnologia e pela arte de resolver problemas. Nos últimos 2 anos, mergulhei no universo do Front-end, adquirindo habilidades sólidas em HTML, CSS e estou expandindo meus conhecimentos em JavaScript.<br>
 
 🎨 Além disso, estou aprimorando minhas noções em UX/UI Design. Estou focado na construção de um portfólio que represente minha jornada e estou determinado a solidificar meu conhecimento em JavaScript para alcançar esse objetivo.<br>
 
